@@ -1,0 +1,158 @@
+{
+  "polls": [
+    {
+      "id": 1,
+      "title": "What is your favorite programming language?",
+      "description": "Vote for your most preferred programming language",
+      "createdAt": "2026-02-09T12:00:00.000Z",
+      "totalVotes": 1,
+      "isActive": true
+    },
+    {
+      "id": 2,
+      "title": "Best front-end framework?",
+      "description": "Choose your favorite front-end framework",
+      "createdAt": "2026-02-08T10:00:00.000Z",
+      "totalVotes": 0,
+      "isActive": false
+    },
+    {
+      "id": 3,
+      "title": "Preferred development environment?",
+      "description": "Which IDE do you use most?",
+      "createdAt": "2026-02-07T08:00:00.000Z",
+      "totalVotes": 0,
+      "isActive": true
+    },
+    {
+      "title": "What is your favourite color?",
+      "description": "",
+      "createdAt": "2026-02-09T10:17:14.383Z",
+      "totalVotes": 0,
+      "isActive": true,
+      "id": 4
+    },
+    {
+      "title": "Hi",
+      "description": "",
+      "createdAt": "2026-02-09T10:19:39.708Z",
+      "totalVotes": 1,
+      "isActive": true,
+      "id": 5
+    }
+  ],
+  "options": [
+    {
+      "id": 1,
+      "pollId": 1,
+      "text": "JavaScript",
+      "voteCount": 1
+    },
+    {
+      "id": 2,
+      "pollId": 1,
+      "text": "Python",
+      "voteCount": 0
+    },
+    {
+      "id": 3,
+      "pollId": 1,
+      "text": "Java",
+      "voteCount": 0
+    },
+    {
+      "id": 4,
+      "pollId": 1,
+      "text": "TypeScript",
+      "voteCount": 0
+    },
+    {
+      "pollId": 4,
+      "text": "Red",
+      "voteCount": 0,
+      "id": 5
+    },
+    {
+      "pollId": 4,
+      "text": "Black",
+      "voteCount": 0,
+      "id": 6
+    },
+    {
+      "pollId": 4,
+      "text": "White",
+      "voteCount": 0,
+      "id": 7
+    },
+    {
+      "pollId": 4,
+      "text": "Yellow",
+      "voteCount": 0,
+      "id": 8
+    },
+    {
+      "pollId": 4,
+      "text": "Pink",
+      "voteCount": 0,
+      "id": 9
+    },
+    {
+      "pollId": 4,
+      "text": "Orange",
+      "voteCount": 0,
+      "id": 10
+    },
+    {
+      "pollId": 4,
+      "text": "Green",
+      "voteCount": 0,
+      "id": 11
+    },
+    {
+      "pollId": 4,
+      "text": "Blue",
+      "voteCount": 0,
+      "id": 12
+    },
+    {
+      "pollId": 4,
+      "text": "Brown",
+      "voteCount": 0,
+      "id": 13
+    },
+    {
+      "pollId": 4,
+      "text": "Purple",
+      "voteCount": 0,
+      "id": 14
+    },
+    {
+      "pollId": 5,
+      "text": "1",
+      "voteCount": 0,
+      "id": 15
+    },
+    {
+      "pollId": 5,
+      "text": "2",
+      "voteCount": 1,
+      "id": 16
+    }
+  ],
+  "votes": [
+    {
+      "pollId": 1,
+      "optionId": 1,
+      "userIp": "::1",
+      "votedAt": "2026-02-09T10:11:03.228Z",
+      "id": 1
+    },
+    {
+      "pollId": 5,
+      "optionId": 16,
+      "userIp": "::1",
+      "votedAt": "2026-02-09T10:27:28.037Z",
+      "id": 2
+    }
+  ]
+}
