@@ -33,14 +33,6 @@
       "id": 4
     },
     {
-      "title": "Hi",
-      "description": "",
-      "createdAt": "2026-02-09T10:19:39.708Z",
-      "totalVotes": 1,
-      "isActive": true,
-      "id": 5
-    },
-    {
       "title": "Test Poll",
       "description": "",
       "createdAt": "2026-02-09T11:02:26.386Z",
@@ -135,18 +127,6 @@
       "id": 14
     },
     {
-      "pollId": 5,
-      "text": "1",
-      "voteCount": 0,
-      "id": 15
-    },
-    {
-      "pollId": 5,
-      "text": "2",
-      "voteCount": 1,
-      "id": 16
-    },
-    {
       "pollId": 6,
       "text": "Option A",
       "voteCount": 0,
@@ -157,6 +137,42 @@
       "text": "Option B",
       "voteCount": 0,
       "id": 18
+    },
+    {
+      "id": 19,
+      "pollId": 3,
+      "text": "Visual Studio Code",
+      "voteCount": 0
+    },
+    {
+      "id": 20,
+      "pollId": 3,
+      "text": "IntelliJ IDEA",
+      "voteCount": 0
+    },
+    {
+      "id": 21,
+      "pollId": 3,
+      "text": "PyCharm",
+      "voteCount": 0
+    },
+    {
+      "id": 22,
+      "pollId": 3,
+      "text": "Sublime Text",
+      "voteCount": 0
+    },
+    {
+      "id": 23,
+      "pollId": 3,
+      "text": "Vim/Neovim",
+      "voteCount": 0
+    },
+    {
+      "id": 24,
+      "pollId": 3,
+      "text": "Eclipse",
+      "voteCount": 0
     }
   ],
   "votes": [
@@ -166,13 +182,6 @@
       "userIp": "::1",
       "votedAt": "2026-02-09T10:11:03.228Z",
       "id": 1
-    },
-    {
-      "pollId": 5,
-      "optionId": 16,
-      "userIp": "::1",
-      "votedAt": "2026-02-09T10:27:28.037Z",
-      "id": 2
     }
   ]
 }
