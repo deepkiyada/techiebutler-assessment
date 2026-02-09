@@ -39,6 +39,14 @@
       "totalVotes": 1,
       "isActive": true,
       "id": 5
+    },
+    {
+      "title": "Test Poll",
+      "description": "",
+      "createdAt": "2026-02-09T11:02:26.386Z",
+      "totalVotes": 0,
+      "isActive": true,
+      "id": 6
     }
   ],
   "options": [
@@ -137,6 +145,18 @@
       "text": "2",
       "voteCount": 1,
       "id": 16
+    },
+    {
+      "pollId": 6,
+      "text": "Option A",
+      "voteCount": 0,
+      "id": 17
+    },
+    {
+      "pollId": 6,
+      "text": "Option B",
+      "voteCount": 0,
+      "id": 18
     }
   ],
   "votes": [

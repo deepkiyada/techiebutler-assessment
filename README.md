@@ -109,7 +109,7 @@ You need to run **three separate processes** in different terminal windows:
 cd backend
 npm run json-server
 ```
-- Runs on: `http://localhost:3000`
+- Runs on: `http://localhost:4000`
 - Database file: `backend/db.json`
 
 #### Terminal 2: Express API Server
@@ -132,7 +132,7 @@ npm run dev
 
 - **Frontend UI**: http://localhost:5173
 - **Express API**: http://localhost:3001
-- **JSON Server**: http://localhost:3000
+- **JSON Server**: http://localhost:4000
 - **Health Check**: http://localhost:3001/health
 
 ### Environment Configuration (Optional)
